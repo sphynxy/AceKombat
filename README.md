@@ -16,7 +16,7 @@ StrangeVE is a mutated version of StockVisualEnhancements
      * Horizon does not always represent landscape.
      
   * StrangeVE
-     * None
+     * Clouds do not appear on main menu.
  
  **Roadmap**:
   * Adding more planets and moons.
