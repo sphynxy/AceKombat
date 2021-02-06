@@ -23,6 +23,7 @@ StrangeVE is a mutated version of StockVisualEnhancements
   * Better PQS landscape, (always) with real shoreline.
   * Kerbal Konstructs structures including ISEV.
   * Biomes.
+  * Flip continents.
   
 **Changelog**:  
 >v0.2.1-beta:   
