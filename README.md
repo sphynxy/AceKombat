@@ -12,12 +12,13 @@ Heightmap partially generated procedurally in blender using nodes.
   * Ghost of Kerbin normal map in ocean.
   * Horizon does not always represent landscape.
  
- **Roadmap**:  
+ **Roadmap**:
   * Visual mod support
   * Adding more planets and moons.
   * Better PQS landscape, (always) with real shoreline.
   * Kerbal Konstructs structures including ISEV.
-
+  * Biomes.
+  
 **Changelog**:  
 >v0.2.0-beta:   
 >- Added correct topography.
