@@ -1,7 +1,7 @@
 # AceKombat
 KSP Kopernicus mod replacing Kerbin with Strangereal from the Ace Combat series.  
-Vertex color map and heightmap generated procedurally in blender using nodes. 
-
+Vertex color map generated procedurally in blender using nodes.
+Heightmap partially generated procedurally in blender using nodes.
 
 
 **Requirements**:  
@@ -15,5 +15,9 @@ Vertex color map and heightmap generated procedurally in blender using nodes.
  **Roadmap**:  
   * Visual mod support
   * Adding more planets and moons.
-  * Better PQS landscape, currently a little flat, with no real shoreline.
+  * Better PQS landscape, (always) with real shoreline.
   * Kerbal Konstructs structures including ISEV.
+
+**Changelog**:  
+>v0.2.0-beta:   
+>- Added correct topography.
