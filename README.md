@@ -1,4 +1,6 @@
-# AceKombat
+![color](https://i.imgur.com/Znt0oLe.png "color")  
+# AceKombat  
+
 KSP Kopernicus mod replacing Kerbin with Strangereal from the Ace Combat series.  
 Vertex color map generated procedurally in blender using nodes.
 Heightmap partially generated procedurally in blender using nodes.  
@@ -36,3 +38,4 @@ StrangeVE is a mutated version of StockVisualEnhancements
 
 >v0.2.0-beta:   
 >- Added correct topography.
+
